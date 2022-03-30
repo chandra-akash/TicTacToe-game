@@ -1,0 +1,10 @@
+.X {
+    color: rgb(54, 1, 114);
+}
+.O {
+    color: rgb(141, 5, 89);
+}
+
+.winner{
+    color: lawngreen ;
+}
